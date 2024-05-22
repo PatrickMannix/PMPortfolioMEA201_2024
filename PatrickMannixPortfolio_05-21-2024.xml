@@ -1,0 +1,3186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <channel>
+    <title>Patrick Mannix Portfolio</title>
+    <link>https://gar-crimson-72jm.squarespace.com</link>
+    <pubDate>Wed, 22 May 2024 18:41:02 +0000</pubDate>
+    <description />
+    <language>en-US</language>
+    <wp:wxr_version>1.2</wp:wxr_version>
+    <wp:author>
+      <wp:author_id>-1763632084</wp:author_id>
+      <wp:author_login>patrickmannix3802@gmail.com</wp:author_login>
+      <wp:author_email>patrickmannix3802@gmail.com</wp:author_email>
+      <wp:author_display_name><![CDATA[Whirlwind6 Wind]]></wp:author_display_name>
+      <wp:author_first_name><![CDATA[Whirlwind6]]></wp:author_first_name>
+      <wp:author_last_name><![CDATA[Wind]]></wp:author_last_name>
+    </wp:author>
+    <wp:category>
+      <wp:cat_name><![CDATA[null - null]]></wp:cat_name>
+      <wp:category_nicename>null-null</wp:category_nicename>
+      <wp:category_parent />
+    </wp:category>
+    <item>
+      <link>/homepage</link>
+      <title>Home</title>
+      <pubDate>Wed, 22 May 2024 19:55:21 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" id="sections" data-page-sections="664e4a46340ea96a0aa5ffda">
+  
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme=""
+  class='page-section has-section-divider
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    '
+  
+  data-section-id="664e4acece515d07cb2f00fe"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+  &quot;customSectionHeight&quot;: 10,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;backgroundColor&quot;: &quot;&quot;,
+  &quot;sectionTheme&quot;: &quot;&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: {
+    &quot;type&quot;: &quot;none&quot;
+  },
+  &quot;divider&quot;: {
+    &quot;enabled&quot;: true,
+    &quot;type&quot;: &quot;wavy&quot;,
+    &quot;width&quot;: {
+      &quot;unit&quot;: &quot;vw&quot;,
+      &quot;value&quot;: 100.0
+    },
+    &quot;height&quot;: {
+      &quot;unit&quot;: &quot;vw&quot;,
+      &quot;value&quot;: 6.0
+    },
+    &quot;isFlipX&quot;: false,
+    &quot;isFlipY&quot;: false,
+    &quot;offset&quot;: {
+      &quot;unit&quot;: &quot;px&quot;,
+      &quot;value&quot;: 0.0
+    },
+    &quot;stroke&quot;: {
+      &quot;style&quot;: &quot;solid&quot;,
+      &quot;color&quot;: {
+        &quot;type&quot;: &quot;THEME_COLOR&quot;
+      },
+      &quot;thickness&quot;: {
+        &quot;unit&quot;: &quot;px&quot;,
+        &quot;value&quot;: 6.0
+      },
+      &quot;dashLength&quot;: {
+        &quot;unit&quot;: &quot;px&quot;,
+        &quot;value&quot;: 5.0
+      },
+      &quot;gapLength&quot;: {
+        &quot;unit&quot;: &quot;px&quot;,
+        &quot;value&quot;: 15.0
+      },
+      &quot;linecap&quot;: &quot;square&quot;
+    }
+  },
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+    
+  
+  
+>
+  <div
+    class="section-border"
+    
+      data-controller="SectionDivider"
+      style="clip-path: url(#section-divider-664e4acece515d07cb2f00fe);"
+    
+  >
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>
+
+.fe-664e4ace3395cd2437f6b5bb {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(2,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-664e4ace3395cd2437f6b5bb {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-664e4ace3395cd2437f6b5bb {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(4,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-yui_3_17_2_1_1716403279933_32511 {
+    grid-area: 1/2/3/10;
+    z-index: 1;
+
+    @media (max-width: 767px) {
+      
+        
+      
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1716403279933_32511 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-yui_3_17_2_1_1716403279933_32511 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1716403279933_32511 {
+      grid-area: 1/2/5/26;
+      z-index: 1;
+
+      
+        
+      
+    }
+
+    .fe-block-yui_3_17_2_1_1716403279933_32511 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-yui_3_17_2_1_1716403279933_32511 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+</style><div class="fluid-engine fe-664e4ace3395cd2437f6b5bb"><div class="fe-block fe-block-yui_3_17_2_1_1716403279933_32511"><div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-yui_3_17_2_1_1716403279933_32511"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <p class="" style="white-space:pre-wrap;">A collection of variant degrees in digital artwork and coding to show off coming from Patrick Mannix.</p><p class="" style="white-space:pre-wrap;"><br></p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div></div></div>
+    </div>
+  
+  </div>
+  
+
+
+<div
+  class="section-divider-display"
+  style="
+    --stroke-thickness: 6px;
+    --stroke-dasharray: 0;
+    --stroke-linecap: square;
+    
+      
+    
+  "
+>
+  <style>
+    .has-section-divider[data-section-id="664e4acece515d07cb2f00fe"] {
+      padding-bottom: var(--divider-height);
+      z-index: var(--z-index);
+    }
+
+    .has-section-divider[data-section-id="664e4acece515d07cb2f00fe"] .background-pause-button {
+      bottom: calc(14px + var(--divider-height));
+    }
+
+    .has-section-divider[data-section-id="664e4acece515d07cb2f00fe"] .section-divider-svg-clip {
+      display: block;
+    }
+
+    .has-section-divider[data-section-id="664e4acece515d07cb2f00fe"].background-width--inset:not(.content-collection):not(.gallery-section):not(.user-items-list-section) {
+      padding-bottom: calc(var(--sqs-site-gutter) + var(--divider-height));
+    }
+
+    .has-section-divider[data-section-id="664e4acece515d07cb2f00fe"].background-width--inset:not(.content-collection):not(.gallery-section):not(.user-items-list-section) .section-background {
+      bottom: calc(var(--sqs-site-gutter) + var(--divider-height));
+    }
+
+    .has-section-divider[data-section-id="664e4acece515d07cb2f00fe"] .section-divider-block {
+      height: var(--divider-height);
+    }
+  </style>
+  
+  <style data-section-divider-style>
+    .has-section-divider[data-section-id="664e4acece515d07cb2f00fe"] {
+      padding-bottom: 6vw;
+    }
+    .has-section-divider[data-section-id="664e4acece515d07cb2f00fe"].background-width--inset:not(.content-collection):not(.gallery-section):not(.user-items-list-section) {
+      padding-bottom: calc(var(--sqs-site-gutter) + 6vw);
+    }
+  </style>
+  <div class="section-divider-block"></div>
+  <svg class="section-divider-svg-clip">
+    <clipPath
+      id="section-divider-664e4acece515d07cb2f00fe"
+      clipPathUnits="objectBoundingBox"
+    >
+      <path class="section-divider-clip" d="M0,0" />
+    </clipPath>
+  </svg>
+  <svg class="section-divider-svg-stroke" viewBox="0 0 1 1" preserveAspectRatio="none">
+    <path class="section-divider-stroke" d="M0,0" vector-effect="non-scaling-stroke" />
+  </svg>
+</div>
+
+</section>
+
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme=""
+  class='page-section 
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+       has-background
+    
+    
+    '
+  
+  data-section-id="664e4abce87e7053836d2014"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;backgroundImage&quot;: {
+    &quot;id&quot;: &quot;664e4b041c538e72f216d8fc&quot;,
+    &quot;recordType&quot;: 2,
+    &quot;addedOn&quot;: 1716407044312,
+    &quot;updatedOn&quot;: 1716407044385,
+    &quot;workflowState&quot;: 1,
+    &quot;publishOn&quot;: 1716407044312,
+    &quot;authorId&quot;: &quot;664e3c3d360b7311e74e51f5&quot;,
+    &quot;systemDataId&quot;: &quot;68c58fb1-3bc6-4786-b56a-7cabda8de627&quot;,
+    &quot;systemDataVariants&quot;: &quot;3024x4032,100w,300w,500w,750w,1000w,1500w,2500w&quot;,
+    &quot;systemDataSourceType&quot;: &quot;JPG&quot;,
+    &quot;filename&quot;: &quot;PatMan.jpeg&quot;,
+    &quot;mediaFocalPoint&quot;: {
+      &quot;x&quot;: 0.5,
+      &quot;y&quot;: 0.5,
+      &quot;source&quot;: 3
+    },
+    &quot;colorData&quot;: {
+      &quot;topLeftAverage&quot;: &quot;4a463f&quot;,
+      &quot;topRightAverage&quot;: &quot;37322b&quot;,
+      &quot;bottomLeftAverage&quot;: &quot;8e887b&quot;,
+      &quot;bottomRightAverage&quot;: &quot;6e665d&quot;,
+      &quot;centerAverage&quot;: &quot;95908a&quot;,
+      &quot;suggestedBgColor&quot;: &quot;928e87&quot;
+    },
+    &quot;urlId&quot;: &quot;mjbx77isg8cclwrcclc0z667e9ze3r&quot;,
+    &quot;title&quot;: &quot;&quot;,
+    &quot;body&quot;: null,
+    &quot;likeCount&quot;: 0,
+    &quot;commentCount&quot;: 0,
+    &quot;publicCommentCount&quot;: 0,
+    &quot;commentState&quot;: 2,
+    &quot;unsaved&quot;: false,
+    &quot;author&quot;: {
+      &quot;id&quot;: &quot;664e3c3d360b7311e74e51f5&quot;,
+      &quot;displayName&quot;: &quot;Whirlwind6 Wind&quot;,
+      &quot;firstName&quot;: &quot;Whirlwind6&quot;,
+      &quot;lastName&quot;: &quot;Wind&quot;,
+      &quot;avatarUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/664e3c3d360b7311e74e51f5/85103763-6dd0-4d5a-a9d0-672a0d1a86e6/thirdPartyMemberAvatar-664e3c3d360b7311e74e51f5-5b0b6f12-8d5b-45c0-b8ef-34b893bbd466?format=300w&quot;,
+      &quot;bio&quot;: &quot;&quot;,
+      &quot;avatarAssetUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/664e3c3d360b7311e74e51f5/85103763-6dd0-4d5a-a9d0-672a0d1a86e6/thirdPartyMemberAvatar-664e3c3d360b7311e74e51f5-5b0b6f12-8d5b-45c0-b8ef-34b893bbd466?format=300w&quot;
+    },
+    &quot;assetUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/68c58fb1-3bc6-4786-b56a-7cabda8de627/PatMan.jpeg&quot;,
+    &quot;contentType&quot;: &quot;image/jpeg&quot;,
+    &quot;items&quot;: [ ],
+    &quot;pushedServices&quot;: { },
+    &quot;pendingPushedServices&quot;: { },
+    &quot;recordTypeLabel&quot;: &quot;image&quot;,
+    &quot;originalSize&quot;: &quot;3024x4032&quot;
+  },
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+  &quot;customSectionHeight&quot;: 10,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;backgroundColor&quot;: &quot;&quot;,
+  &quot;sectionTheme&quot;: &quot;&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: {
+    &quot;type&quot;: &quot;none&quot;
+  },
+  &quot;divider&quot;: {
+    &quot;enabled&quot;: false
+  },
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+    
+  
+  
+>
+  <div
+    class="section-border"
+    
+  >
+    <div class="section-background">
+    
+      
+        
+        
+          
+
+
+
+
+
+  
+
+
+
+<img alt="" src="https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/68c58fb1-3bc6-4786-b56a-7cabda8de627/PatMan.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/68c58fb1-3bc6-4786-b56a-7cabda8de627/PatMan.jpeg" data-image-dimensions="3024x4032" data-image-focal-point="0.5,0.5" alt="PatMan.jpeg" data-load="false" elementtiming="nbf-background" src="https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/68c58fb1-3bc6-4786-b56a-7cabda8de627/PatMan.jpeg" width="3024" height="4032" alt="" sizes="(max-width: 799px) 200vw, 100vw" style="display:block;object-position: 50% 50%" srcset="https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/68c58fb1-3bc6-4786-b56a-7cabda8de627/PatMan.jpeg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/68c58fb1-3bc6-4786-b56a-7cabda8de627/PatMan.jpeg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/68c58fb1-3bc6-4786-b56a-7cabda8de627/PatMan.jpeg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/68c58fb1-3bc6-4786-b56a-7cabda8de627/PatMan.jpeg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/68c58fb1-3bc6-4786-b56a-7cabda8de627/PatMan.jpeg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/68c58fb1-3bc6-4786-b56a-7cabda8de627/PatMan.jpeg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/68c58fb1-3bc6-4786-b56a-7cabda8de627/PatMan.jpeg?format=2500w 2500w" fetchpriority="low" loading="lazy" decoding="async" data-loader="sqs">
+
+
+
+
+        
+        <div class="section-background-overlay" style="opacity: 0.15;"></div>
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>
+
+.fe-664e4abc590ee24a21edc4dc {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(56,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-664e4abc590ee24a21edc4dc {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-664e4abc590ee24a21edc4dc {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(19,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-yui_3_17_2_1_1716403279933_40617 {
+    grid-area: 1/2/3/10;
+    z-index: 3;
+
+    @media (max-width: 767px) {
+      
+        
+      
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1716403279933_40617 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-yui_3_17_2_1_1716403279933_40617 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1716403279933_40617 {
+      grid-area: 1/2/4/8;
+      z-index: 3;
+
+      
+        
+      
+    }
+
+    .fe-block-yui_3_17_2_1_1716403279933_40617 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-yui_3_17_2_1_1716403279933_40617 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1716403279933_29735 {
+    grid-area: 3/2/9/10;
+    z-index: 1;
+
+    @media (max-width: 767px) {
+      
+        
+      
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1716403279933_29735 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-yui_3_17_2_1_1716403279933_29735 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1716403279933_29735 {
+      grid-area: 4/2/10/8;
+      z-index: 1;
+
+      
+        
+      
+    }
+
+    .fe-block-yui_3_17_2_1_1716403279933_29735 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-yui_3_17_2_1_1716403279933_29735 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-f5537ced194d9ce4be91 {
+    grid-area: 9/2/11/10;
+    z-index: 4;
+
+    @media (max-width: 767px) {
+      
+        
+      
+    }
+  }
+
+  .fe-block-f5537ced194d9ce4be91 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-f5537ced194d9ce4be91 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-f5537ced194d9ce4be91 {
+      grid-area: 1/8/4/14;
+      z-index: 4;
+
+      
+        
+      
+    }
+
+    .fe-block-f5537ced194d9ce4be91 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-f5537ced194d9ce4be91 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-da15c83a916402e65f5f {
+    grid-area: 11/2/17/10;
+    z-index: 2;
+
+    @media (max-width: 767px) {
+      
+        
+      
+    }
+  }
+
+  .fe-block-da15c83a916402e65f5f .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-da15c83a916402e65f5f .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-da15c83a916402e65f5f {
+      grid-area: 4/8/10/14;
+      z-index: 2;
+
+      
+        
+      
+    }
+
+    .fe-block-da15c83a916402e65f5f .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-da15c83a916402e65f5f .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-7e79f478d22c33b2bd78 {
+    grid-area: 17/2/23/10;
+    z-index: 2;
+
+    @media (max-width: 767px) {
+      
+        
+      
+    }
+  }
+
+  .fe-block-7e79f478d22c33b2bd78 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-7e79f478d22c33b2bd78 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-7e79f478d22c33b2bd78 {
+      grid-area: 10/5/17/11;
+      z-index: 2;
+
+      
+        
+      
+    }
+
+    .fe-block-7e79f478d22c33b2bd78 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-7e79f478d22c33b2bd78 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-b38221bb79efbdf97c78 {
+    grid-area: 23/2/25/10;
+    z-index: 4;
+
+    @media (max-width: 767px) {
+      
+        
+      
+    }
+  }
+
+  .fe-block-b38221bb79efbdf97c78 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-b38221bb79efbdf97c78 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-b38221bb79efbdf97c78 {
+      grid-area: 17/5/20/11;
+      z-index: 4;
+
+      
+        
+      
+    }
+
+    .fe-block-b38221bb79efbdf97c78 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-b38221bb79efbdf97c78 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-24d3f7eb5699da132bf8 {
+    grid-area: 25/2/27/10;
+    z-index: 4;
+
+    @media (max-width: 767px) {
+      
+        
+      
+    }
+  }
+
+  .fe-block-24d3f7eb5699da132bf8 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-24d3f7eb5699da132bf8 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-24d3f7eb5699da132bf8 {
+      grid-area: 1/14/4/20;
+      z-index: 4;
+
+      
+        
+      
+    }
+
+    .fe-block-24d3f7eb5699da132bf8 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-24d3f7eb5699da132bf8 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-8a57a6c200a12ab4bb4e {
+    grid-area: 27/2/33/10;
+    z-index: 2;
+
+    @media (max-width: 767px) {
+      
+        
+      
+    }
+  }
+
+  .fe-block-8a57a6c200a12ab4bb4e .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-8a57a6c200a12ab4bb4e .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-8a57a6c200a12ab4bb4e {
+      grid-area: 4/14/10/20;
+      z-index: 2;
+
+      
+        
+      
+    }
+
+    .fe-block-8a57a6c200a12ab4bb4e .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-8a57a6c200a12ab4bb4e .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-1f38ad0a321545789a85 {
+    grid-area: 33/2/39/10;
+    z-index: 2;
+
+    @media (max-width: 767px) {
+      
+        
+      
+    }
+  }
+
+  .fe-block-1f38ad0a321545789a85 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-1f38ad0a321545789a85 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-1f38ad0a321545789a85 {
+      grid-area: 10/11/16/17;
+      z-index: 2;
+
+      
+        
+      
+    }
+
+    .fe-block-1f38ad0a321545789a85 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-1f38ad0a321545789a85 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-4b523cebb83a73c9139b {
+    grid-area: 39/2/41/10;
+    z-index: 4;
+
+    @media (max-width: 767px) {
+      
+        
+      
+    }
+  }
+
+  .fe-block-4b523cebb83a73c9139b .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-4b523cebb83a73c9139b .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-4b523cebb83a73c9139b {
+      grid-area: 17/11/20/17;
+      z-index: 4;
+
+      
+        
+      
+    }
+
+    .fe-block-4b523cebb83a73c9139b .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-4b523cebb83a73c9139b .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-733f6db70cccff0c8081 {
+    grid-area: 41/2/43/10;
+    z-index: 4;
+
+    @media (max-width: 767px) {
+      
+        
+      
+    }
+  }
+
+  .fe-block-733f6db70cccff0c8081 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-733f6db70cccff0c8081 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-733f6db70cccff0c8081 {
+      grid-area: 1/20/4/26;
+      z-index: 4;
+
+      
+        
+      
+    }
+
+    .fe-block-733f6db70cccff0c8081 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-733f6db70cccff0c8081 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-59defa8e74c906cc30a4 {
+    grid-area: 43/2/49/10;
+    z-index: 2;
+
+    @media (max-width: 767px) {
+      
+        
+      
+    }
+  }
+
+  .fe-block-59defa8e74c906cc30a4 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-59defa8e74c906cc30a4 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-59defa8e74c906cc30a4 {
+      grid-area: 4/20/10/26;
+      z-index: 2;
+
+      
+        
+      
+    }
+
+    .fe-block-59defa8e74c906cc30a4 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-59defa8e74c906cc30a4 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-7c1b5432246e4430d57f {
+    grid-area: 49/2/55/10;
+    z-index: 2;
+
+    @media (max-width: 767px) {
+      
+        
+      
+    }
+  }
+
+  .fe-block-7c1b5432246e4430d57f .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-7c1b5432246e4430d57f .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-7c1b5432246e4430d57f {
+      grid-area: 10/17/16/23;
+      z-index: 2;
+
+      
+        
+      
+    }
+
+    .fe-block-7c1b5432246e4430d57f .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-7c1b5432246e4430d57f .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-9ba0b73e990311ec67b9 {
+    grid-area: 55/2/57/10;
+    z-index: 4;
+
+    @media (max-width: 767px) {
+      
+        
+      
+    }
+  }
+
+  .fe-block-9ba0b73e990311ec67b9 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-9ba0b73e990311ec67b9 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-9ba0b73e990311ec67b9 {
+      grid-area: 17/17/20/23;
+      z-index: 4;
+
+      
+        
+      
+    }
+
+    .fe-block-9ba0b73e990311ec67b9 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-9ba0b73e990311ec67b9 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+</style><div class="fluid-engine fe-664e4abc590ee24a21edc4dc"><div class="fe-block fe-block-yui_3_17_2_1_1716403279933_40617"><div class="sqs-block html-block sqs-block-html sqs-background-enabled" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-yui_3_17_2_1_1716403279933_40617"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <p class="" style="white-space:pre-wrap;">Pattern Digital Graphic Art</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    <style>
+      #block-yui_3_17_2_1_1716403279933_40617 {
+        box-sizing: border-box;
+        height: 100%;
+        padding: 6% 6% 6% 6%;
+        border-radius: 0px 0px 0px 0px;
+
+        
+
+        
+          
+            
+            
+              --tweak-text-block-background-color: 
+  
+    hsla(var(--white-hsl), 1)
+  
+
+;
+            
+          
+        
+      }
+    </style>
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-yui_3_17_2_1_1716403279933_29735"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-block-type="5" id="block-yui_3_17_2_1_1716403279933_29735"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-center
+        combination-animation-site-default
+        individual-animation-site-default
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          
+          style="overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            
+              <div class="content-fit">
+                
+            
+            
+            
+            
+            
+            
+            <img data-stretch="false" src="https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/6d83c62c-e910-4f08-89e6-3fcd4755ca55/PatrickMannix-ColorSchemePatterns.jpg" data-image="https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/6d83c62c-e910-4f08-89e6-3fcd4755ca55/PatrickMannix-ColorSchemePatterns.jpg" data-image-dimensions="925x1236" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/6d83c62c-e910-4f08-89e6-3fcd4755ca55/PatrickMannix-ColorSchemePatterns.jpg" width="925" height="1236" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 25vw" style="display:block;object-fit: contain; object-position: 50% 50%" srcset="https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/6d83c62c-e910-4f08-89e6-3fcd4755ca55/PatrickMannix-ColorSchemePatterns.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/6d83c62c-e910-4f08-89e6-3fcd4755ca55/PatrickMannix-ColorSchemePatterns.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/6d83c62c-e910-4f08-89e6-3fcd4755ca55/PatrickMannix-ColorSchemePatterns.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/6d83c62c-e910-4f08-89e6-3fcd4755ca55/PatrickMannix-ColorSchemePatterns.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/6d83c62c-e910-4f08-89e6-3fcd4755ca55/PatrickMannix-ColorSchemePatterns.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/6d83c62c-e910-4f08-89e6-3fcd4755ca55/PatrickMannix-ColorSchemePatterns.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/6d83c62c-e910-4f08-89e6-3fcd4755ca55/PatrickMannix-ColorSchemePatterns.jpg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            
+              
+            
+            <div class="fluidImageOverlay"></div>
+          
+              </div>
+            
+          
+
+        </div>
+      </div>
+    </div>
+    <style>
+      .sqs-block-image .sqs-block-content {
+        height: 100%;
+        width: 100%;
+      }
+
+      
+        .fe-block-yui_3_17_2_1_1716403279933_29735 .fluidImageOverlay {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          mix-blend-mode: normal;
+          
+            
+            
+          
+          
+            opacity: 0;
+          
+        }
+      
+    </style>
+  
+
+
+  
+
+
+</div></div></div><div class="fe-block fe-block-f5537ced194d9ce4be91"><div class="sqs-block html-block sqs-block-html sqs-background-enabled" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-f5537ced194d9ce4be91"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <p class="" style="white-space:pre-wrap;">Photoship Digital Graphic Art</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    <style>
+      #block-f5537ced194d9ce4be91 {
+        box-sizing: border-box;
+        height: 100%;
+        padding: 6% 6% 6% 6%;
+        border-radius: 0px 0px 0px 0px;
+
+        
+
+        
+          
+            
+            
+              --tweak-text-block-background-color: 
+  
+    hsla(var(--white-hsl), 1)
+  
+
+;
+            
+          
+        
+      }
+    </style>
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-da15c83a916402e65f5f"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-block-type="5" id="block-da15c83a916402e65f5f"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-center
+        combination-animation-site-default
+        individual-animation-site-default
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          
+          style="overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            
+              <div class="content-fit">
+                
+            
+            
+            
+            
+            
+            
+            <img data-stretch="false" src="https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/9aa385a1-9116-4c37-a344-794f574a45aa/PatrickMannix-MannerOfCompositionAssignment-HateTheme-RaoulHausmann.jpg" data-image="https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/9aa385a1-9116-4c37-a344-794f574a45aa/PatrickMannix-MannerOfCompositionAssignment-HateTheme-RaoulHausmann.jpg" data-image-dimensions="2550x3300" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/9aa385a1-9116-4c37-a344-794f574a45aa/PatrickMannix-MannerOfCompositionAssignment-HateTheme-RaoulHausmann.jpg" width="2550" height="3300" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 25vw" style="display:block;object-fit: contain; object-position: 50% 50%" srcset="https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/9aa385a1-9116-4c37-a344-794f574a45aa/PatrickMannix-MannerOfCompositionAssignment-HateTheme-RaoulHausmann.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/9aa385a1-9116-4c37-a344-794f574a45aa/PatrickMannix-MannerOfCompositionAssignment-HateTheme-RaoulHausmann.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/9aa385a1-9116-4c37-a344-794f574a45aa/PatrickMannix-MannerOfCompositionAssignment-HateTheme-RaoulHausmann.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/9aa385a1-9116-4c37-a344-794f574a45aa/PatrickMannix-MannerOfCompositionAssignment-HateTheme-RaoulHausmann.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/9aa385a1-9116-4c37-a344-794f574a45aa/PatrickMannix-MannerOfCompositionAssignment-HateTheme-RaoulHausmann.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/9aa385a1-9116-4c37-a344-794f574a45aa/PatrickMannix-MannerOfCompositionAssignment-HateTheme-RaoulHausmann.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/9aa385a1-9116-4c37-a344-794f574a45aa/PatrickMannix-MannerOfCompositionAssignment-HateTheme-RaoulHausmann.jpg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            
+              
+            
+            <div class="fluidImageOverlay"></div>
+          
+              </div>
+            
+          
+
+        </div>
+      </div>
+    </div>
+    <style>
+      .sqs-block-image .sqs-block-content {
+        height: 100%;
+        width: 100%;
+      }
+
+      
+        .fe-block-da15c83a916402e65f5f .fluidImageOverlay {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          mix-blend-mode: normal;
+          
+            
+            
+          
+          
+            opacity: 0;
+          
+        }
+      
+    </style>
+  
+
+
+  
+
+
+</div></div></div><div class="fe-block fe-block-7e79f478d22c33b2bd78"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-block-type="5" id="block-7e79f478d22c33b2bd78"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-center
+        combination-animation-site-default
+        individual-animation-site-default
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          
+          style="overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            
+              <div class="content-fit">
+                
+            
+            
+            
+            
+            
+            
+            <img data-stretch="false" src="https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/5031a615-6686-40a1-a4c3-c227c9ed9727/selfPortrait_raster_v02.jpg" data-image="https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/5031a615-6686-40a1-a4c3-c227c9ed9727/selfPortrait_raster_v02.jpg" data-image-dimensions="1024x1024" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/5031a615-6686-40a1-a4c3-c227c9ed9727/selfPortrait_raster_v02.jpg" width="1024" height="1024" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 25vw" style="display:block;object-fit: contain; object-position: 50% 50%" srcset="https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/5031a615-6686-40a1-a4c3-c227c9ed9727/selfPortrait_raster_v02.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/5031a615-6686-40a1-a4c3-c227c9ed9727/selfPortrait_raster_v02.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/5031a615-6686-40a1-a4c3-c227c9ed9727/selfPortrait_raster_v02.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/5031a615-6686-40a1-a4c3-c227c9ed9727/selfPortrait_raster_v02.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/5031a615-6686-40a1-a4c3-c227c9ed9727/selfPortrait_raster_v02.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/5031a615-6686-40a1-a4c3-c227c9ed9727/selfPortrait_raster_v02.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/5031a615-6686-40a1-a4c3-c227c9ed9727/selfPortrait_raster_v02.jpg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            
+              
+            
+            <div class="fluidImageOverlay"></div>
+          
+              </div>
+            
+          
+
+        </div>
+      </div>
+    </div>
+    <style>
+      .sqs-block-image .sqs-block-content {
+        height: 100%;
+        width: 100%;
+      }
+
+      
+        .fe-block-7e79f478d22c33b2bd78 .fluidImageOverlay {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          mix-blend-mode: normal;
+          
+            
+            
+          
+          
+            opacity: 0;
+          
+        }
+      
+    </style>
+  
+
+
+  
+
+
+</div></div></div><div class="fe-block fe-block-b38221bb79efbdf97c78"><div class="sqs-block html-block sqs-block-html sqs-background-enabled" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-b38221bb79efbdf97c78"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <p class="" style="white-space:pre-wrap;">Self Portrait Digital Graphic Art</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    <style>
+      #block-b38221bb79efbdf97c78 {
+        box-sizing: border-box;
+        height: 100%;
+        padding: 6% 6% 6% 6%;
+        border-radius: 0px 0px 0px 0px;
+
+        
+
+        
+          
+            
+            
+              --tweak-text-block-background-color: 
+  
+    hsla(var(--white-hsl), 1)
+  
+
+;
+            
+          
+        
+      }
+    </style>
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-24d3f7eb5699da132bf8"><div class="sqs-block html-block sqs-block-html sqs-background-enabled" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-24d3f7eb5699da132bf8"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <p class="" style="white-space:pre-wrap;">Movie Website Digital Graphic Art</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    <style>
+      #block-24d3f7eb5699da132bf8 {
+        box-sizing: border-box;
+        height: 100%;
+        padding: 6% 6% 6% 6%;
+        border-radius: 0px 0px 0px 0px;
+
+        
+
+        
+          
+            
+            
+              --tweak-text-block-background-color: 
+  
+    hsla(var(--white-hsl), 1)
+  
+
+;
+            
+          
+        
+      }
+    </style>
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-8a57a6c200a12ab4bb4e"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-block-type="5" id="block-8a57a6c200a12ab4bb4e"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-center
+        combination-animation-site-default
+        individual-animation-site-default
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          
+          style="overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            
+              <div class="content-fit">
+                
+            
+            
+            
+            
+            
+            
+            <img data-stretch="false" src="https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/08da2414-a8d4-448b-996b-1e0c14faec5e/PatrickMannixHeroBanner.png" data-image="https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/08da2414-a8d4-448b-996b-1e0c14faec5e/PatrickMannixHeroBanner.png" data-image-dimensions="2880x1088" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/08da2414-a8d4-448b-996b-1e0c14faec5e/PatrickMannixHeroBanner.png" width="2880" height="1088" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 25vw" style="display:block;object-fit: contain; object-position: 50% 50%" srcset="https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/08da2414-a8d4-448b-996b-1e0c14faec5e/PatrickMannixHeroBanner.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/08da2414-a8d4-448b-996b-1e0c14faec5e/PatrickMannixHeroBanner.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/08da2414-a8d4-448b-996b-1e0c14faec5e/PatrickMannixHeroBanner.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/08da2414-a8d4-448b-996b-1e0c14faec5e/PatrickMannixHeroBanner.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/08da2414-a8d4-448b-996b-1e0c14faec5e/PatrickMannixHeroBanner.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/08da2414-a8d4-448b-996b-1e0c14faec5e/PatrickMannixHeroBanner.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/08da2414-a8d4-448b-996b-1e0c14faec5e/PatrickMannixHeroBanner.png?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            
+              
+            
+            <div class="fluidImageOverlay"></div>
+          
+              </div>
+            
+          
+
+        </div>
+      </div>
+    </div>
+    <style>
+      .sqs-block-image .sqs-block-content {
+        height: 100%;
+        width: 100%;
+      }
+
+      
+        .fe-block-8a57a6c200a12ab4bb4e .fluidImageOverlay {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          mix-blend-mode: normal;
+          
+            
+            
+          
+          
+            opacity: 0;
+          
+        }
+      
+    </style>
+  
+
+
+  
+
+
+</div></div></div><div class="fe-block fe-block-1f38ad0a321545789a85"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-block-type="5" id="block-1f38ad0a321545789a85"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-center
+        combination-animation-site-default
+        individual-animation-site-default
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          
+          style="overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            
+              <div class="content-fit">
+                
+            
+            
+            
+            
+            
+            
+            <img data-stretch="false" src="https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/34863da6-90a0-4c57-aaf6-dd53279867b8/WebsiteGraphicArt.jpg" data-image="https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/34863da6-90a0-4c57-aaf6-dd53279867b8/WebsiteGraphicArt.jpg" data-image-dimensions="569x266" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/34863da6-90a0-4c57-aaf6-dd53279867b8/WebsiteGraphicArt.jpg" width="569" height="266" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 25vw" style="display:block;object-fit: contain; object-position: 50% 50%" srcset="https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/34863da6-90a0-4c57-aaf6-dd53279867b8/WebsiteGraphicArt.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/34863da6-90a0-4c57-aaf6-dd53279867b8/WebsiteGraphicArt.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/34863da6-90a0-4c57-aaf6-dd53279867b8/WebsiteGraphicArt.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/34863da6-90a0-4c57-aaf6-dd53279867b8/WebsiteGraphicArt.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/34863da6-90a0-4c57-aaf6-dd53279867b8/WebsiteGraphicArt.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/34863da6-90a0-4c57-aaf6-dd53279867b8/WebsiteGraphicArt.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/34863da6-90a0-4c57-aaf6-dd53279867b8/WebsiteGraphicArt.jpg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            
+              
+            
+            <div class="fluidImageOverlay"></div>
+          
+              </div>
+            
+          
+
+        </div>
+      </div>
+    </div>
+    <style>
+      .sqs-block-image .sqs-block-content {
+        height: 100%;
+        width: 100%;
+      }
+
+      
+        .fe-block-1f38ad0a321545789a85 .fluidImageOverlay {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          mix-blend-mode: normal;
+          
+            
+            
+          
+          
+            opacity: 0;
+          
+        }
+      
+    </style>
+  
+
+
+  
+
+
+</div></div></div><div class="fe-block fe-block-4b523cebb83a73c9139b"><div class="sqs-block html-block sqs-block-html sqs-background-enabled" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-4b523cebb83a73c9139b"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <p class="" style="white-space:pre-wrap;">Website Digital Graphic Art</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    <style>
+      #block-4b523cebb83a73c9139b {
+        box-sizing: border-box;
+        height: 100%;
+        padding: 6% 6% 6% 6%;
+        border-radius: 0px 0px 0px 0px;
+
+        
+
+        
+          
+            
+            
+              --tweak-text-block-background-color: 
+  
+    hsla(var(--white-hsl), 1)
+  
+
+;
+            
+          
+        
+      }
+    </style>
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-733f6db70cccff0c8081"><div class="sqs-block html-block sqs-block-html sqs-background-enabled" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-733f6db70cccff0c8081"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <p class="" style="white-space:pre-wrap;">Standard Digital Graphic Art</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    <style>
+      #block-733f6db70cccff0c8081 {
+        box-sizing: border-box;
+        height: 100%;
+        padding: 6% 6% 6% 6%;
+        border-radius: 0px 0px 0px 0px;
+
+        
+
+        
+          
+            
+            
+              --tweak-text-block-background-color: 
+  
+    hsla(var(--white-hsl), 1)
+  
+
+;
+            
+          
+        
+      }
+    </style>
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-59defa8e74c906cc30a4"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-block-type="5" id="block-59defa8e74c906cc30a4"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-center
+        combination-animation-site-default
+        individual-animation-site-default
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          
+          style="overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            
+              <div class="content-fit">
+                
+            
+            
+            
+            
+            
+            
+            <img data-stretch="false" src="https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/9a806e39-cee0-48fc-a2d1-ce327040b896/PatrickMannixCard.png" data-image="https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/9a806e39-cee0-48fc-a2d1-ce327040b896/PatrickMannixCard.png" data-image-dimensions="688x764" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/9a806e39-cee0-48fc-a2d1-ce327040b896/PatrickMannixCard.png" width="688" height="764" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 25vw" style="display:block;object-fit: contain; object-position: 50% 50%" srcset="https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/9a806e39-cee0-48fc-a2d1-ce327040b896/PatrickMannixCard.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/9a806e39-cee0-48fc-a2d1-ce327040b896/PatrickMannixCard.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/9a806e39-cee0-48fc-a2d1-ce327040b896/PatrickMannixCard.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/9a806e39-cee0-48fc-a2d1-ce327040b896/PatrickMannixCard.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/9a806e39-cee0-48fc-a2d1-ce327040b896/PatrickMannixCard.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/9a806e39-cee0-48fc-a2d1-ce327040b896/PatrickMannixCard.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/9a806e39-cee0-48fc-a2d1-ce327040b896/PatrickMannixCard.png?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            
+              
+            
+            <div class="fluidImageOverlay"></div>
+          
+              </div>
+            
+          
+
+        </div>
+      </div>
+    </div>
+    <style>
+      .sqs-block-image .sqs-block-content {
+        height: 100%;
+        width: 100%;
+      }
+
+      
+        .fe-block-59defa8e74c906cc30a4 .fluidImageOverlay {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          mix-blend-mode: normal;
+          
+            
+            
+          
+          
+            opacity: 0;
+          
+        }
+      
+    </style>
+  
+
+
+  
+
+
+</div></div></div><div class="fe-block fe-block-7c1b5432246e4430d57f"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-block-type="5" id="block-7c1b5432246e4430d57f"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-center
+        combination-animation-site-default
+        individual-animation-site-default
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          
+          style="overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            
+              <div class="content-fit">
+                
+            
+            
+            
+            
+            
+            
+            <img data-stretch="false" src="https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/31a3c6f8-87b8-4c58-9b79-37a2b085d644/MobileGraphicArt.jpg" data-image="https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/31a3c6f8-87b8-4c58-9b79-37a2b085d644/MobileGraphicArt.jpg" data-image-dimensions="836x323" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/31a3c6f8-87b8-4c58-9b79-37a2b085d644/MobileGraphicArt.jpg" width="836" height="323" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 25vw" style="display:block;object-fit: contain; object-position: 50% 50%" srcset="https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/31a3c6f8-87b8-4c58-9b79-37a2b085d644/MobileGraphicArt.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/31a3c6f8-87b8-4c58-9b79-37a2b085d644/MobileGraphicArt.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/31a3c6f8-87b8-4c58-9b79-37a2b085d644/MobileGraphicArt.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/31a3c6f8-87b8-4c58-9b79-37a2b085d644/MobileGraphicArt.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/31a3c6f8-87b8-4c58-9b79-37a2b085d644/MobileGraphicArt.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/31a3c6f8-87b8-4c58-9b79-37a2b085d644/MobileGraphicArt.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/31a3c6f8-87b8-4c58-9b79-37a2b085d644/MobileGraphicArt.jpg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            
+              
+            
+            <div class="fluidImageOverlay"></div>
+          
+              </div>
+            
+          
+
+        </div>
+      </div>
+    </div>
+    <style>
+      .sqs-block-image .sqs-block-content {
+        height: 100%;
+        width: 100%;
+      }
+
+      
+        .fe-block-7c1b5432246e4430d57f .fluidImageOverlay {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          mix-blend-mode: normal;
+          
+            
+            
+          
+          
+            opacity: 0;
+          
+        }
+      
+    </style>
+  
+
+
+  
+
+
+</div></div></div><div class="fe-block fe-block-9ba0b73e990311ec67b9"><div class="sqs-block html-block sqs-block-html sqs-background-enabled" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-9ba0b73e990311ec67b9"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <p class="" style="white-space:pre-wrap;">Mobile Digital Graphic Art</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    <style>
+      #block-9ba0b73e990311ec67b9 {
+        box-sizing: border-box;
+        height: 100%;
+        padding: 6% 6% 6% 6%;
+        border-radius: 0px 0px 0px 0px;
+
+        
+
+        
+          
+            
+            
+              --tweak-text-block-background-color: 
+  
+    hsla(var(--white-hsl), 1)
+  
+
+;
+            
+          
+        
+      }
+    </style>
+  
+
+
+
+</div></div></div></div></div>
+    </div>
+  
+  </div>
+  
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>homepage</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>0</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/contact</link>
+      <title>Contact</title>
+      <pubDate>Wed, 22 May 2024 19:50:00 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" id="sections" data-page-sections="664e45083053926f9cbdd86c">
+  
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="light"
+  class='page-section 
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--small
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+       has-background
+    
+    
+    light'
+  
+  data-section-id="664e45083053926f9cbdd870"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;backgroundImage&quot;: {
+    &quot;id&quot;: &quot;664e452db06a311ceb4bda95&quot;,
+    &quot;recordType&quot;: 2,
+    &quot;addedOn&quot;: 1716405549538,
+    &quot;updatedOn&quot;: 1716405549603,
+    &quot;workflowState&quot;: 1,
+    &quot;publishOn&quot;: 1716405549538,
+    &quot;authorId&quot;: &quot;664e3c3d360b7311e74e51f5&quot;,
+    &quot;systemDataId&quot;: &quot;2561c21f-71df-4b6a-bd6a-54084bc46502&quot;,
+    &quot;systemDataVariants&quot;: &quot;1024x1024,100w,300w,500w,750w,1000w&quot;,
+    &quot;systemDataSourceType&quot;: &quot;JPG&quot;,
+    &quot;filename&quot;: &quot;selfPortrait_raster_v02.jpg&quot;,
+    &quot;mediaFocalPoint&quot;: {
+      &quot;x&quot;: 0.5,
+      &quot;y&quot;: 0.5,
+      &quot;source&quot;: 3
+    },
+    &quot;colorData&quot;: {
+      &quot;topLeftAverage&quot;: &quot;eaede1&quot;,
+      &quot;topRightAverage&quot;: &quot;9b6d87&quot;,
+      &quot;bottomLeftAverage&quot;: &quot;0e100a&quot;,
+      &quot;bottomRightAverage&quot;: &quot;0b1005&quot;,
+      &quot;centerAverage&quot;: &quot;a5787b&quot;,
+      &quot;suggestedBgColor&quot;: &quot;775858&quot;
+    },
+    &quot;urlId&quot;: &quot;m88ebqfadjfsoprhbhh98e0jp1d0mr&quot;,
+    &quot;title&quot;: &quot;&quot;,
+    &quot;body&quot;: null,
+    &quot;likeCount&quot;: 0,
+    &quot;commentCount&quot;: 0,
+    &quot;publicCommentCount&quot;: 0,
+    &quot;commentState&quot;: 2,
+    &quot;unsaved&quot;: false,
+    &quot;author&quot;: {
+      &quot;id&quot;: &quot;664e3c3d360b7311e74e51f5&quot;,
+      &quot;displayName&quot;: &quot;Whirlwind6 Wind&quot;,
+      &quot;firstName&quot;: &quot;Whirlwind6&quot;,
+      &quot;lastName&quot;: &quot;Wind&quot;,
+      &quot;avatarUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/664e3c3d360b7311e74e51f5/85103763-6dd0-4d5a-a9d0-672a0d1a86e6/thirdPartyMemberAvatar-664e3c3d360b7311e74e51f5-5b0b6f12-8d5b-45c0-b8ef-34b893bbd466?format=300w&quot;,
+      &quot;bio&quot;: &quot;&quot;,
+      &quot;avatarAssetUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/664e3c3d360b7311e74e51f5/85103763-6dd0-4d5a-a9d0-672a0d1a86e6/thirdPartyMemberAvatar-664e3c3d360b7311e74e51f5-5b0b6f12-8d5b-45c0-b8ef-34b893bbd466?format=300w&quot;
+    },
+    &quot;assetUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/2561c21f-71df-4b6a-bd6a-54084bc46502/selfPortrait_raster_v02.jpg&quot;,
+    &quot;contentType&quot;: &quot;image/jpeg&quot;,
+    &quot;items&quot;: [ ],
+    &quot;pushedServices&quot;: { },
+    &quot;pendingPushedServices&quot;: { },
+    &quot;recordTypeLabel&quot;: &quot;image&quot;,
+    &quot;originalSize&quot;: &quot;1024x1024&quot;
+  },
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--small&quot;,
+  &quot;customSectionHeight&quot;: 0,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;light&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: {
+    &quot;type&quot;: &quot;none&quot;
+  },
+  &quot;divider&quot;: {
+    &quot;enabled&quot;: false
+  },
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+  
+>
+  <div
+    class="section-border"
+    
+  >
+    <div class="section-background">
+    
+      
+        
+        
+          
+
+
+
+
+
+  
+
+
+
+<img alt="" src="https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/2561c21f-71df-4b6a-bd6a-54084bc46502/selfPortrait_raster_v02.jpg" data-image="https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/2561c21f-71df-4b6a-bd6a-54084bc46502/selfPortrait_raster_v02.jpg" data-image-dimensions="1024x1024" data-image-focal-point="0.5,0.5" alt="selfPortrait_raster_v02.jpg" data-load="false" elementtiming="nbf-background" src="https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/2561c21f-71df-4b6a-bd6a-54084bc46502/selfPortrait_raster_v02.jpg" width="1024" height="1024" alt="" sizes="(max-width: 799px) 200vw, 100vw" style="display:block;object-position: 50% 50%" srcset="https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/2561c21f-71df-4b6a-bd6a-54084bc46502/selfPortrait_raster_v02.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/2561c21f-71df-4b6a-bd6a-54084bc46502/selfPortrait_raster_v02.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/2561c21f-71df-4b6a-bd6a-54084bc46502/selfPortrait_raster_v02.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/2561c21f-71df-4b6a-bd6a-54084bc46502/selfPortrait_raster_v02.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/2561c21f-71df-4b6a-bd6a-54084bc46502/selfPortrait_raster_v02.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/2561c21f-71df-4b6a-bd6a-54084bc46502/selfPortrait_raster_v02.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/2561c21f-71df-4b6a-bd6a-54084bc46502/selfPortrait_raster_v02.jpg?format=2500w 2500w" fetchpriority="high" loading="eager" decoding="async" data-loader="sqs">
+
+
+
+
+        
+        <div class="section-background-overlay" style="opacity: 0.15;"></div>
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>
+
+.fe-664e45083053926f9cbdd86f {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(6,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-664e45083053926f9cbdd86f {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-664e45083053926f9cbdd86f {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(19,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-f05509e8d533a900bf55 {
+    grid-area: 1/2/7/10;
+    z-index: 0;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-f05509e8d533a900bf55 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-f05509e8d533a900bf55 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-f05509e8d533a900bf55 {
+      grid-area: 1/2/20/26;
+      z-index: 0;
+
+      
+    }
+
+    .fe-block-f05509e8d533a900bf55 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-f05509e8d533a900bf55 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+</style><div class="fluid-engine fe-664e45083053926f9cbdd86f"><div class="fe-block fe-block-f05509e8d533a900bf55"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-block-type="5" id="block-f05509e8d533a900bf55"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-left
+        combination-animation-none
+        individual-animation-none
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          
+          style="overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            
+              <div class="content-fill">
+                
+            
+            
+            
+            
+            
+            
+            <img data-stretch="true" src="https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/f433b8b0-0c5d-4f65-8ca8-f18b36e407b9/PatMan.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/f433b8b0-0c5d-4f65-8ca8-f18b36e407b9/PatMan.jpeg" data-image-dimensions="3024x4032" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/f433b8b0-0c5d-4f65-8ca8-f18b36e407b9/PatMan.jpeg" width="3024" height="4032" alt="" sizes="100vw" style="display:block;object-fit: cover; object-position: 50% 50%" srcset="https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/f433b8b0-0c5d-4f65-8ca8-f18b36e407b9/PatMan.jpeg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/f433b8b0-0c5d-4f65-8ca8-f18b36e407b9/PatMan.jpeg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/f433b8b0-0c5d-4f65-8ca8-f18b36e407b9/PatMan.jpeg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/f433b8b0-0c5d-4f65-8ca8-f18b36e407b9/PatMan.jpeg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/f433b8b0-0c5d-4f65-8ca8-f18b36e407b9/PatMan.jpeg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/f433b8b0-0c5d-4f65-8ca8-f18b36e407b9/PatMan.jpeg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/664e3c3eb95a4f6cef31a9ca/f433b8b0-0c5d-4f65-8ca8-f18b36e407b9/PatMan.jpeg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            
+              
+            
+            <div class="fluidImageOverlay"></div>
+          
+              </div>
+            
+          
+
+        </div>
+      </div>
+    </div>
+    <style>
+      .sqs-block-image .sqs-block-content {
+        height: 100%;
+        width: 100%;
+      }
+
+      
+        .fe-block-f05509e8d533a900bf55 .fluidImageOverlay {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          mix-blend-mode: normal;
+          
+            
+            
+          
+          
+            opacity: 0;
+          
+        }
+      
+    </style>
+  
+
+
+  
+
+
+</div></div></div></div></div>
+    </div>
+  
+  </div>
+  
+</section>
+
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="light"
+  class='page-section 
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--small
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    light'
+  
+  data-section-id="664e45083053926f9cbdd873"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--small&quot;,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;light&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: {
+    &quot;type&quot;: &quot;none&quot;
+  },
+  &quot;divider&quot;: {
+    &quot;enabled&quot;: false
+  },
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+  
+>
+  <div
+    class="section-border"
+    
+  >
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>
+
+.fe-664e45083053926f9cbdd872 {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(18,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-664e45083053926f9cbdd872 {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-664e45083053926f9cbdd872 {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(7,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-9c8a5992662e71740c22 {
+    grid-area: 1/2/8/10;
+    z-index: 0;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-9c8a5992662e71740c22 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-9c8a5992662e71740c22 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-9c8a5992662e71740c22 {
+      grid-area: 1/2/8/14;
+      z-index: 0;
+
+      
+    }
+
+    .fe-block-9c8a5992662e71740c22 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-9c8a5992662e71740c22 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-2c652673371ffb70fe50 {
+    grid-area: 8/2/16/10;
+    z-index: 1;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-2c652673371ffb70fe50 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-2c652673371ffb70fe50 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-2c652673371ffb70fe50 {
+      grid-area: 1/15/3/26;
+      z-index: 1;
+
+      
+    }
+
+    .fe-block-2c652673371ffb70fe50 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-2c652673371ffb70fe50 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-0ce37015cc0b36a1806e {
+    grid-area: 16/2/18/6;
+    z-index: 2;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-0ce37015cc0b36a1806e .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-0ce37015cc0b36a1806e .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-0ce37015cc0b36a1806e {
+      grid-area: 3/15/7/21;
+      z-index: 2;
+
+      
+    }
+
+    .fe-block-0ce37015cc0b36a1806e .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-0ce37015cc0b36a1806e .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-78023d18ef325a793a2c {
+    grid-area: 16/6/18/10;
+    z-index: 3;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-78023d18ef325a793a2c .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-78023d18ef325a793a2c .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-78023d18ef325a793a2c {
+      grid-area: 3/21/5/26;
+      z-index: 3;
+
+      
+    }
+
+    .fe-block-78023d18ef325a793a2c .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-78023d18ef325a793a2c .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+</style><div class="fluid-engine fe-664e45083053926f9cbdd872"><div class="fe-block fe-block-9c8a5992662e71740c22"><div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-9c8a5992662e71740c22"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <p class="" style="white-space:pre-wrap;">Areas of Expertise</p><h3 style="white-space:pre-wrap;">Digital Graphic Art<br>Coding<br>Computers<br>Website Design</h3>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-2c652673371ffb70fe50"><div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-2c652673371ffb70fe50"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <p class="" style="white-space:pre-wrap;">A collection of variant degrees in digital artwork and coding to show off coming from Patrick Mannix.</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-0ce37015cc0b36a1806e"><div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-0ce37015cc0b36a1806e"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <p class="" style="white-space:pre-wrap;"><strong>Email<br></strong>patrickmannix3802@gmail.com</p><p style="text-align:center;white-space:pre-wrap;" class="">PATRICK.MANNIX001@STU.BMCC.CUNY.EDU</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-78023d18ef325a793a2c"><div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-78023d18ef325a793a2c"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <p class="" style="white-space:pre-wrap;"><strong>Phone</strong><br>(646) 770 4326</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div></div></div>
+    </div>
+  
+  </div>
+  
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>contact</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>1</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+  </channel>
+</rss>
+
